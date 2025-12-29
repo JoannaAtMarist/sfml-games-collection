@@ -45,6 +45,10 @@ x86/
 *.vcxproj.user
 *.vcxproj.filters
 
+# VS Code  
+build/
+.vscode/
+
 # CMake
 CMakeFiles/
 CMakeCache.txt
@@ -70,3 +74,4 @@ Makefile
 *.dll
 *.dSYM/
 
+SFML-2.6.2/ 
