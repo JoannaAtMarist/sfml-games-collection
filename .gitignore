@@ -1,0 +1,72 @@
+# Compiled object files
+*.o
+*.obj
+*.lo
+*.slo
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.dll
+*.so
+*.dylib
+
+# Compiled Static libraries
+*.lib
+*.a
+*.la
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Debug and Release folders (Visual Studio)
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+
+# Build results
+[Bb]uild/
+[Bb]uild-game1/
+[Bb]uild-game2/
+[Bb]uild-game3/
+[Bb]uild-game4/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio specific
+.vs/
+*.vcxproj.user
+*.vcxproj.filters
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.cmake
+
+# Logs and databases
+*.log
+*.sdf
+*.cachefile
+*.pdb
+*.ipch
+*.db
+*.opendb
+
+# Other VS temp files
+*.tlog
+*.lastbuildstate
+*.idb
+
+# SFML dependencies
+*.dll
+*.dSYM/
+
